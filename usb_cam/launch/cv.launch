@@ -1,0 +1,3 @@
+<launch>
+<node name="cv" pkg="usb_cam" type="cv.py" output="screen"/>
+</launch>

@@ -1,0 +1,1 @@
+face_detection: '$(find face)/config/haarcascade_frontalface_default.xml'
